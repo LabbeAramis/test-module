@@ -1,0 +1,23 @@
+{
+    "name": "LabbeAramis/test-module",
+    "description": "",
+    "authors": [
+        {
+            "name": "Labbe Aramis",
+            "email": "labbe.aramis@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Test\\": ""
+        }
+    }
+}
